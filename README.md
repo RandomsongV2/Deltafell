@@ -1,4 +1,4 @@
-#planned things:
+# planned things:
   red ralsei, purple scarff, fireball spell, will keep "raise up your bat" lyrics unchanged;
   king is now "the chain of justice";
   Susie actually kills lancer in prison;
