@@ -1,9 +1,10 @@
 planned things:
   red ralsei, purple scarff, fireball spell, will keep "raise up your bat" lyrics unchanged;
-  king is "the chain of justice" now;
+  king is now "the chain of justice" now;
   Susie actually kills lancer in prison;
   The knight appears in chapter 2, you fight them with no ralsei and on weird route with no susie;
   spamton uses fancy text like tenna;
-  old queen design;
+  queen is now empress (old design);
   rudest buster?;
   insans;
+  clover is now undertale yellow clover;
