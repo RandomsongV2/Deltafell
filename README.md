@@ -8,3 +8,4 @@
  • rudest buster?;  
  • insans;  
  • clover is now undertale yellow clover;  
+ • some joke prophesies like "Kris will sing swears" and something about school project  
