@@ -14,3 +14,5 @@
  • ralsei mannequins: now its 2 of them "you could show mercy to us", "or turn all of us to dust"  
  • seam and jevil are swapped  
  • more dialogues at ch3 names (for example "???")  
+ • "chapter main boss" motif
+ • different freedom motif
