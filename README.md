@@ -11,4 +11,5 @@
  • some joke prophesies like "Kris will sing swears" and something about school project  
  • knight room instead of mike room  
  • equipping weapons changes their battle texture   
+ • ralsei mannequins: now its 2 of them "you could show mercy to us", "or turn all of us to dust"  
  
