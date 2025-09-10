@@ -1,3 +1,5 @@
+### discord  
+ https://discord.gg/DUVYFcHA
 ## planned things (spoilers haha):
  • red ralsei, purple scarff, fireball spell, will keep "raise up your bat" lyrics unchanged;  
  • king is now "the chain of justice";  
