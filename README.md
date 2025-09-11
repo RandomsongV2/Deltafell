@@ -14,7 +14,7 @@
  • knight room instead of mike room  
  • equipping weapons changes their battle texture   
  • ralsei mannequins: now its 2 of them "you could show mercy to us", "or turn all of us to dust"  
- • seam and jevil are swapped  
+ • seam and jevil are swapped (seam uses tarrot cards as attacks)  
  • more dialogues at ch3 names (for example "???")  
  • "chapter main boss" motif  
  • different freedom motif  
